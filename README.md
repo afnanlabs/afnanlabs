@@ -1,5 +1,5 @@
 # Hi, I'm Afnan Khan 👋
-🌐 Portfolio: https://afnan-dev-portfolio.vercel.app/
+🌐 Portfolio: https://afnan-dev-portfolio.vercel.app/<br><br>
 I focus on building useful, problem-driven web applications that go beyond just visual design, aiming to create solutions that are practical, efficient, and meaningful in real-world scenarios. I enjoy working on projects that challenge my thinking and push me to improve both my technical skills and problem-solving approach. Currently, I am expanding my knowledge into backend systems and full-stack development, with the goal of building complete, scalable applications from end to end.
 
 ## 💫 About Me:
