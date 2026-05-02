@@ -26,6 +26,12 @@ I focus on building useful, problem-driven web applications that go beyond just 
 * **SmartMark** — An AI-based face recognition attendance system built with Python, Flask, OpenCV, and Firebase, reducing manual attendance errors by approximately 80% through automation.
 
 
+## 🌱 Currently Exploring
+
+🚀 Full-stack web development and backend fundamentals
+⚙️ Building dynamic interfaces and improving application structure
+🎨 Creating responsive and modern UI with clean design principles
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
