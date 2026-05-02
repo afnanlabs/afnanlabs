@@ -15,9 +15,13 @@
 
 ## 🚀 My Projects
 
-1.Built **ThinkTrack**, a full-stack student productivity and collaboration platform using PHP, MySQL, and JavaScript, featuring role-based access, task management, notes system, and Google OAuth authentication.<br>
-2.Built **Somnus**, a sleep quality analyzer using HTML, CSS, and JavaScript that evaluates user habits, generates sleep scores, tracks trends, and provides actionable insights.<br>
-3.Built **SmartMark**, an AI-based face recognition attendance system using Python, Flask, OpenCV, and Firebase, reducing manual attendance errors by approximately 80% through automation.<br>
+* **ThinkTrack** — A full-stack student productivity and collaboration platform built with PHP, MySQL, and JavaScript, featuring role-based access, task management, notes system, and Google OAuth authentication.
+
+* **Somnus** — A sleep quality analyzer built with HTML, CSS, and JavaScript that evaluates user habits, generates sleep scores, tracks trends, and provides actionable insights.
+  👉 Live: https://somnus-chi.vercel.app/
+
+* **SmartMark** — An AI-based face recognition attendance system built with Python, Flask, OpenCV, and Firebase, reducing manual attendance errors by approximately 80% through automation.
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
