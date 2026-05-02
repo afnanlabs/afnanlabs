@@ -1,4 +1,5 @@
 # Hi, I'm Afnan Khan 👋
+🌐 Portfolio: https://afnan-dev-portfolio.vercel.app/
 I focus on building useful, problem-driven web applications that go beyond just visual design, aiming to create solutions that are practical, efficient, and meaningful in real-world scenarios. I enjoy working on projects that challenge my thinking and push me to improve both my technical skills and problem-solving approach. Currently, I am expanding my knowledge into backend systems and full-stack development, with the goal of building complete, scalable applications from end to end.
 
 ## 💫 About Me:
@@ -22,8 +23,6 @@ I focus on building useful, problem-driven web applications that go beyond just 
 
 * **Somnus** — A sleep quality analyzer built with HTML, CSS, and JavaScript that evaluates user habits, generates sleep scores, tracks trends, and provides actionable insights.
   👉 Live: https://somnus-chi.vercel.app/
-
-* **SmartMark** — An AI-based face recognition attendance system built with Python, Flask, OpenCV, and Firebase, reducing manual attendance errors by approximately 80% through automation.
 
 
 ## 🌱 Currently Exploring
