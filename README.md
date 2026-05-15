@@ -32,7 +32,3 @@ I focus on building useful, problem-driven web applications that go beyond just 
 ⚙️ Building dynamic interfaces and improving application structure<br>
 🎨 Creating responsive and modern UI with clean design principles<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
