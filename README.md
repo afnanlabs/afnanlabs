@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Afnan%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20Backend%20Learner&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Afnan%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=22" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Building+practical+web+applications+🚀;Frontend+Developer+exploring+Backend+Systems+⚡;Learning+Full-Stack+Development+every+day+📚;Focused+on+real-world+problem+solving+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Building+practical+web+applications+🚀;Frontend+Developer+exploring+Backend+Systems+⚡;Focused+on+real-world+problem+solving+💡;Passionate+about+Full-Stack+Development+📚)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,25 +14,28 @@
 
 <div align="center">
 
-## 💫 About Me
+# 💫 About Me
 
 </div>
 
 ```js
 const afnan = {
-    role: "Web Developer",
+    role: "Full Stack Web Developer",
+
     focus: [
         "Frontend Development",
         "Backend Fundamentals",
         "APIs & Databases",
-        "Full-Stack Development"
+        "Full-Stack Applications"
     ],
 
-    currentlyLearning: [
+    techStack: [
+        "JavaScript",
         "React",
-        "SQL & SQLite",
-        "Backend Systems",
-        "REST APIs"
+        "Tailwind CSS",
+        "SQL",
+        "SQLite",
+        "Node.js"
     ],
 
     philosophy:
@@ -47,7 +50,7 @@ const afnan = {
 
 <div align="center">
 
-## ⚡ Current Focus
+# ⚡ Current Focus
 
 </div>
 
@@ -57,20 +60,6 @@ const afnan = {
 * 🎨 Designing modern UI with Tailwind CSS
 * 🚀 Deploying projects with Vercel & Netlify
 * 📚 Strengthening full-stack development fundamentals
-
----
-
-<div align="center">
-
-# 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://afnan-dev-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/afnankhan1108-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge\&logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/users/31422231)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khanafnan1108@gmail.com)
-
-</div>
 
 ---
 
@@ -128,9 +117,9 @@ https://cinescope-ashen.vercel.app/
 
 # 📊 GitHub Stats
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=khanafnan110805&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=khanafnan110805&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -140,7 +129,7 @@ https://cinescope-ashen.vercel.app/
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanafnan110805&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -148,40 +137,13 @@ https://cinescope-ashen.vercel.app/
 
 <div align="center">
 
-# 🐍 Contribution Snake
+# 🌐 Connect With Me
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🌱 Currently Learning
-
-</div>
-
-```txt
-Frontend Architecture
-Backend Fundamentals
-REST APIs
-SQL & Database Design
-Full-Stack Development
-System Thinking
-```
-
----
-
-<div align="center">
-
-# 🎯 Goals for 2025
-
-✅ Build stronger full-stack projects
-✅ Improve backend & database knowledge
-✅ Become internship/job ready
-✅ Contribute consistently on GitHub
-✅ Strengthen problem-solving skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://afnan-dev-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/afnankhan1108-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/khanafnan110805)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge\&logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/users/31422231)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khanafnan1108@gmail.com)
 
 </div>
 
