@@ -1,85 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Afnan%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Afnan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20Builder%20|%20Backend%20Explorer&descAlignY=55&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Building+practical+web+applications+🚀;Frontend+Developer+exploring+Backend+Systems+⚡;Focused+on+real-world+problem+solving+💡;Passionate+about+Full-Stack+Development+📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&random=false\&width=700\&lines=Building+web+applications+that+solve+real+problems+🚀;Frontend+Developer+exploring+Backend+Systems+⚡;Always+learning%2C+always+building+📚;Turning+ideas+into+real+projects+💡)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
+## 🌸 The Origin Story
 
-# 💫 About Me
+```javascript
+class Afnan {
+    constructor() {
+        this.name = "Afnan Khan";
+        this.title = "Full Stack Web Developer";
+        this.based_in = "India 🇮🇳";
+        this.current_focus = "Frontend + Backend Development";
+        this.brain_fuel = ["coffee ☕", "curiosity 🔍", "music 🎵"];
+        this.superpower = "Turning ideas into working applications";
+        this.weakness = "Opening too many tabs while debugging";
+    }
 
-</div>
-
-```js
-const afnan = {
-    role: "Full Stack Web Developer",
-
-    focus: [
-        "Frontend Development",
-        "Backend Fundamentals",
-        "APIs & Databases",
-        "Full-Stack Applications"
-    ],
-
-    techStack: [
-        "JavaScript",
-        "React",
-        "Tailwind CSS",
-        "SQL",
-        "SQLite",
-        "Node.js"
-    ],
-
-    philosophy:
-        "Build practical and user-focused applications that solve real problems.",
-
-    funFact:
-        "I prefer building useful tools over flashy projects 🚀"
-};
+    lifeMotto() {
+        return "Build. Learn. Improve. Repeat. 🚀";
+    }
+}
 ```
 
 ---
 
-<div align="center">
+## 🧠 What I'm About
 
-# ⚡ Current Focus
+> *"I enjoy building applications that are practical, clean, and actually useful."*
 
-</div>
-
-* ⚛️ Building responsive frontend applications with React
-* 🗄️ Practicing SQL and database fundamentals using SQLite
-* 🔗 Exploring APIs and backend architecture
-* 🎨 Designing modern UI with Tailwind CSS
-* 🚀 Deploying projects with Vercel & Netlify
-* 📚 Strengthening full-stack development fundamentals
+* ⚛️ Frontend developer focused on responsive and user-focused web applications
+* 🔗 Exploring backend systems, APIs, and full-stack development
+* 🗄️ Learning databases and SQL through hands-on practice using SQLite
+* 🚀 Interested in building scalable and real-world web applications
+* 📚 Constantly improving problem-solving and development skills
+* 💡 I enjoy creating projects that balance usability, logic, and clean design
 
 ---
 
+## 🛠️ WorkFlow
+
 <div align="center">
 
-# 💻 Tech Stack
+### 💻 Languages
 
-### 🌐 Frontend
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### ⚙️ Frameworks & Backend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### ⚙️ Backend & Databases
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ### ☁️ Tools & Platforms
 
@@ -87,57 +70,57 @@ const afnan = {
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-# 🚀 Featured Project
+<p align="center">
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khanafnan110805&theme=tokyonight" />
 
-## 🎬 CineScope
-
-A modern movie discovery application focused on responsive UI, smooth user experience, and clean frontend architecture.
-
-### 🛠️ Built With
-
-`React` `JavaScript` `Tailwind CSS` `Vercel`
-
-### 🔗 Live Demo
-
-https://cinescope-ashen.vercel.app/
+</p>
 
 ---
 
-<div align="center">
+## 📈 Contribution Graph
 
-# 📊 GitHub Stats
+<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=khanafnan110805&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanafnan110805&theme=react-dark" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=khanafnan110805&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 🐍 Watch My Commits Get Eaten
 
-# 📈 Contribution Graph
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanafnan110805&theme=react-dark&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake.svg" />
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 🎲 Fun Facts — The Developer Version
 
-# 🌐 Connect With Me
+| 💬 What I say                      | 🤫 What I mean           |
+| ---------------------------------- | ------------------------ |
+| *"Just one small fix"*             | I might break everything |
+| *"I'll sleep after this feature"*  | It's already 3AM         |
+| *"This bug makes no sense"*        | I forgot a semicolon     |
+| *"Let me refactor this later"*     | Future me will suffer    |
+| *"The deployment should work now"* | Please work 🙏           |
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://afnan-dev-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/afnankhan1108-dev)
@@ -151,6 +134,10 @@ https://cinescope-ashen.vercel.app/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=140&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" />
+
+*If you like my work, consider dropping a ⭐ on my repositories!*
+
+<img src="https://komarev.com/ghpvc/?username=khanafnan110805&label=👁️+Profile+Views&color=blueviolet&style=flat-square" />
 
 </div>
