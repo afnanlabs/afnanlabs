@@ -95,16 +95,6 @@ class Afnan {
 
 ---
 
-## 🐍 Watch My Commits Get Eaten
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
 ## 🎲 Fun Facts — The Developer Version
 
 | 💬 What I say                      | 🤫 What I mean           |
