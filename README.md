@@ -52,6 +52,31 @@ class Afnan {
 
 ---
 
+<div align="center">
+
+<picture>
+
+<!-- Dark Mode -->
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake-dark.svg"/>
+
+<!-- Light Mode -->
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake.svg"/>
+
+<!-- Default -->
+<img
+alt="github contribution snake animation"
+src="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
 ## 🎲 Fun Facts — The Developer Version
 
 | 💬 What I say                      | 🤫 What I mean           |
