@@ -1,17 +1,11 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/Afnan-labs.png">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/Afnan-labs.png">
-
+<p align="center">
   <img
+    src="./assets/Afnan-labs.png"
     alt="AFNAN.labs"
-    src="assets/Afnan-labs.png"
     width="100%">
-</picture>
+</p>
+
+---
 
 <!--
 <div align="center">
