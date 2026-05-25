@@ -2,7 +2,7 @@
   <img
     src="https://raw.githubusercontent.com/afnanlabs/afnanlabs/main/.github/workflows/Afnan-labs.png"
     alt="AFNAN.labs"
-    width="100%">
+    width="72%">
 </p>
 
 
