@@ -1,6 +1,9 @@
 
 <picture>
   <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/Afnan-labs.png">
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="./assets/Afnan-labs.png">
