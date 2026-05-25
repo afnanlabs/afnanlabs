@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/afnanlabs/afnanlabs/main/.github/workflows/Afnan-labs.png"
+    src="https://github.com/afnanlabs/afnanlabs/blob/3c895e3b946d8561e7ddff7cab82baa7b32a6d88/.github/workflows/Desktop%20-%201.png"
     alt="AFNAN.labs"
-    width="72%">
+    width="100%">
 </p>
 
 
@@ -18,7 +18,6 @@
 
 </div>
 -->
----
 
 ## 🌸 The Origin Story
 
