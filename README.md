@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/afnanlabs/afnanlabs/blob/3c895e3b946d8561e7ddff7cab82baa7b32a6d88/.github/workflows/Desktop%20-%201.png"
+    src="https://github.com/afnanlabs/afnanlabs/blob/ee5bc0278e6266477a1556fe6f6ca6c46031814c/.github/workflows/Desktop%20-01.png"
     alt="AFNAN.labs"
     width="200%">
 </p>
