@@ -1,11 +1,10 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/afnanlabs/afnanlabs/main/assets/Afnan-labs.png"
+    src="https://raw.githubusercontent.com/afnanlabs/afnanlabs/main/.github/workflows/Afnan-labs.png"
     alt="AFNAN.labs"
     width="100%">
 </p>
 
----
 
 <!--
 <div align="center">
