@@ -25,7 +25,7 @@
 class Afnan {
     constructor() {
         this.name = "Afnan Khan";
-        this.title = "Full Stack Web Developer";
+        this.title = "Full Stack Web Developer & UI/UX Designer";
         this.based_in = "India 🇮🇳";
         this.current_focus = "Frontend + Backend Development";
         this.brain_fuel = ["coffee ☕", "curiosity 🔍", "music 🎵"];
