@@ -5,15 +5,13 @@
     width="200%">
 </p>
 
+## 🌸 The Origin Story
 <!-- Added Campfire -->
 <img
   src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/git-home.gif"
   width="220"
   align="right"
 />
-
-## 🌸 The Origin Story
-
 ```javascript
 class Afnan {
     constructor() {
