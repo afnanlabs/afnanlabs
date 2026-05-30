@@ -97,6 +97,19 @@ class Afnan {
 
 </div>
 
+
+---
+<!-- Added Coding Desk -->
+<<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+</p>
+---
+<!-- Added Campfire -->
+<img
+  src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/git-home.gif"
+  width="250"
+  align="right"
+/>
 ---
 
 <div align="center">
