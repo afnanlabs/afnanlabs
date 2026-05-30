@@ -12,6 +12,7 @@
   width="220"
   align="right"
 />
+
 ```javascript
 class Afnan {
     constructor() {
