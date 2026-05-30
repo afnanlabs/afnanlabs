@@ -5,6 +5,13 @@
     width="200%">
 </p>
 
+<!-- Added Campfire -->
+<img
+  src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/git-home.gif"
+  width="220"
+  align="right"
+/>
+
 ## 🌸 The Origin Story
 
 ```javascript
@@ -54,13 +61,6 @@ class Afnan {
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 </div>
-
-<!-- Added Campfire -->
-<img
-  src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/git-home.gif"
-  width="250"
-  align="right"
-/>
 ---
 
 <div align="center">
