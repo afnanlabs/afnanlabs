@@ -55,8 +55,6 @@ class Afnan {
 
 </div>
 
-
----
 <!-- Added Campfire -->
 <img
   src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/git-home.gif"
