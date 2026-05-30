@@ -25,12 +25,18 @@
 class Afnan {
     constructor() {
         this.name = "Afnan Khan";
-        this.title = "Full Stack Web Developer & UI/UX Designer";
-        this.based_in = "India 🇮🇳";
-        this.current_focus = "Frontend + Backend Development";
-        this.brain_fuel = ["coffee ☕", "curiosity 🔍", "music 🎵"];
-        this.superpower = "Turning ideas into working applications";
-        this.weakness = "Opening too many tabs while debugging";
+        this.role = "Full Stack Developer";
+        this.sideQuest = "UI/UX Design";
+        this.location = "India 🇮🇳";
+
+        this.brainFuel = ["☕ Coffee", "🎵 Music", "🔍 Curiosity"];
+
+        this.superpower = "Turning ideas into working products";
+        this.weakness = "Fixing one bug and discovering three more";
+    }
+
+    currentStatus() {
+        return "Building. Learning. Improving.";
     }
 
     lifeMotto() {
