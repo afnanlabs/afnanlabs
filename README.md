@@ -21,7 +21,7 @@ class Afnan {
         this.sideQuest = "UI/UX Design";
         this.location = "India 🇮🇳";
 
-        this.brainFuel = ["☕ Coffee", "🎵 Music", "🔍 Curiosity"];
+        this.brainFuel = ["☕ Coffee", "⚽ Football", "🔍 Curiosity"];
 
         this.superpower = "Turning ideas into working products";
         this.weakness = "Fixing one bug and discovering three more";
