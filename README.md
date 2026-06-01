@@ -84,4 +84,5 @@ src="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/gi
 
 </div>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=afnanlabs&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
 ---
