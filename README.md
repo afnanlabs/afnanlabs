@@ -62,28 +62,15 @@ class Afnan {
 
 ---
 
+
+
 <div align="center">
-
-<picture>
-
-<!-- Dark Mode -->
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake-dark.svg"/>
-
-<!-- Light Mode -->
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake.svg"/>
-
-<!-- Default -->
-<img
-alt="github contribution snake animation"
-src="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/khanafnan110805/khanafnan110805/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=afnanlabs&color=ff6a00&style=flat-square&label=PROFILE+VIEWS)
 ---
