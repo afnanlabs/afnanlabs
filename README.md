@@ -8,6 +8,14 @@
 
 ## 🌸 The Origin Story
 
+<!--
+<img
+  src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/git-home.gif"
+  width="220"
+  align="right"
+/>
+-->
+
 <img
   src="https://i.pinimg.com/originals/e3/82/69/e38269b2ad3d40bb1ec0231b6fd88c01.gif" 
   width="220"
