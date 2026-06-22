@@ -5,12 +5,16 @@
     width="200%">
 </p>
 
-## 🌸 The Origin Story
-<table>
-<tr>
-<td valign="top" width="75%">
 
-<pre lang="javascript">
+## 🌸 The Origin Story
+
+<img
+  src="https://i.pinimg.com/originals/e3/82/69/e38269b2ad3d40bb1ec0231b6fd88c01.gif" 
+  width="220"
+  align="right"
+/>
+
+```javascript
 class Afnan {
     constructor() {
         this.name = "Afnan Khan";
@@ -32,27 +36,7 @@ class Afnan {
         return "Build. Learn. Improve. Repeat. 🚀";
     }
 }
-</pre>
-
-</td>
-
-<td valign="top" align="center">
-
-<img
-  src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/git-home.gif"
-  width="220"
-/>
-
-<br>
-
-<img
-  src="https://i.pinimg.com/originals/73/10/1d/73101da42ad70d5caae829c77a61a99f.gif"
-  width="170"
-/>
-
-</td>
-</tr>
-</table>
+```
 
 ## 🛠️ Tech Stack
 <div align="center">
