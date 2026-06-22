@@ -17,7 +17,7 @@
 -->
 
 <img
-  src="https://i.pinimg.com/originals/e3/82/69/e38269b2ad3d40bb1ec0231b6fd88c01.gif" 
+  src="https://i.pinimg.com/originals/d5/58/7a/d5587a472226b28dbfeb04fa91b0f62a.gif" 
   width="220"
   align="right"
 />
