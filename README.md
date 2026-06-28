@@ -29,17 +29,13 @@ class Afnan {
         this.role = "Full Stack Developer";
         this.sideQuest = "UI/UX Design";
         this.location = "India 🇮🇳";
-
         this.brainFuel = ["☕ Coffee", "⚽ Football", "🔍 Curiosity"];
-
         this.superpower = "Turning ideas into working products";
         this.weakness = "Fixing one bug and discovering three more";
     }
-
     currentStatus() {
         return "Building. Learning. Improving.";
     }
-
     lifeMotto() {
         return "Build. Learn. Improve. Repeat. 🚀";
     }
