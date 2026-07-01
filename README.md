@@ -24,6 +24,7 @@
 
 ```javascript
 class Afnan {
+
     constructor() {
         this.name = "Afnan Khan";
         this.origin = "Mumbai, India 🇮🇳";
