@@ -24,11 +24,11 @@ src="https://i.pinimg.com/originals/d5/58/7a/d5587a472226b28dbfeb04fa91b0f62a.gi
   width="220"
   align="right"
 />
-<!-- <img
+ <img
   src="https://raw.githubusercontent.com/afnanlabs/afnanlabs/main/.github/workflows/download1-ezgif.com-effects.gif"
   width="220"
   align="right"
-/> -->
+/> 
 
 ```javascript
 class Afnan {
