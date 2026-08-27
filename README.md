@@ -21,7 +21,7 @@ src="https://i.pinimg.com/originals/d5/58/7a/d5587a472226b28dbfeb04fa91b0f62a.gi
  src="https://i.pinimg.com/originals/d4/49/37/d44937b62b85771809ac74e541d55e5f.gif"
  -->
  <img
-  src="https://i.pinimg.com/originals/a9/58/c5/a958c5e7013b51a07822a6c10f9de1f1.gif"
+  src="https://i.pinimg.com/originals/11/4e/fc/114efc8f8a0693972bf4d8f925f6d6b7.gif"
   width="220"
   align="right"
 />
